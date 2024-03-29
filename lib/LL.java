@@ -1,3 +1,5 @@
+package lib;
+
 // Linked List
 public class LL<T> {
     public Node head, tail;
