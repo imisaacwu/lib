@@ -45,7 +45,7 @@ public class C extends T._2<Integer, Integer> {
 
     @Override
     public String toString() {
-        return String.format(ARRAY ? "[%s][%s]" : "(%s, %s)", v0, v1);
+        return String.format(ARRAY ? "[%s][%s]" : "(%s, %s)", v0, v1) + "test";
     }
 
     @Override
